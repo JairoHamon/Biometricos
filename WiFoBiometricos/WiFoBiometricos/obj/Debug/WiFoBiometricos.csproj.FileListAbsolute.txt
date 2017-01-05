@@ -1,0 +1,14 @@
+K:\Desarrollo\WiFoBiometricos\WiFoBiometricos\WiFoBiometricos\bin\Debug\WiFoBiometricos.exe.config
+K:\Desarrollo\WiFoBiometricos\WiFoBiometricos\WiFoBiometricos\bin\Debug\WiFoBiometricos.exe
+K:\Desarrollo\WiFoBiometricos\WiFoBiometricos\WiFoBiometricos\bin\Debug\WiFoBiometricos.pdb
+K:\Desarrollo\WiFoBiometricos\WiFoBiometricos\WiFoBiometricos\bin\Debug\Interop.FaceSdk_V10Lib.dll
+K:\Desarrollo\WiFoBiometricos\WiFoBiometricos\WiFoBiometricos\bin\Debug\AxInterop.FaceSdk_V10Lib.dll
+K:\Desarrollo\WiFoBiometricos\WiFoBiometricos\WiFoBiometricos\obj\Debug\Interop.FaceSdk_V10Lib.dll
+K:\Desarrollo\WiFoBiometricos\WiFoBiometricos\WiFoBiometricos\obj\Debug\AxInterop.FaceSdk_V10Lib.dll
+K:\Desarrollo\WiFoBiometricos\WiFoBiometricos\WiFoBiometricos\obj\Debug\WiFoBiometricos.csproj.ResolveComReference.cache
+K:\Desarrollo\WiFoBiometricos\WiFoBiometricos\WiFoBiometricos\obj\Debug\WiFoBiometricos.Form1.resources
+K:\Desarrollo\WiFoBiometricos\WiFoBiometricos\WiFoBiometricos\obj\Debug\WiFoBiometricos.Properties.Resources.resources
+K:\Desarrollo\WiFoBiometricos\WiFoBiometricos\WiFoBiometricos\obj\Debug\WiFoBiometricos.csproj.GenerateResource.Cache
+K:\Desarrollo\WiFoBiometricos\WiFoBiometricos\WiFoBiometricos\obj\Debug\WiFoBiometricos.exe
+K:\Desarrollo\WiFoBiometricos\WiFoBiometricos\WiFoBiometricos\obj\Debug\WiFoBiometricos.pdb
+K:\Desarrollo\WiFoBiometricos\WiFoBiometricos\WiFoBiometricos\obj\Debug\WiFoBiometricos.csprojResolveAssemblyReference.cache
